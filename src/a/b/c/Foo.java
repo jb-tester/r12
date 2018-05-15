@@ -12,4 +12,7 @@ public class Foo {
     // dddd
     // dddd
     //  ddd
+    // foo
+    //
+    //
 }
