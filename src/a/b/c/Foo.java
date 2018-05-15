@@ -7,9 +7,9 @@ package a.b.c;
  * *******************************
  */
 public class Foo {
-    //
-    //
-    //
-    //\
-    //
+    // dd
+    // ddd
+    // dddd
+    // dddd
+    //  ddd
 }
