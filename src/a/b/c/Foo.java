@@ -7,12 +7,12 @@ package a.b.c;
  * *******************************
  */
 public class Foo {
-    // dd
+    // dd fdfdfd
     // ddd
     // dddd
     // dddd
     //  ddd
     // foo
-    //
-    //
+    // dfdf df
+    // f dfdf
 }
