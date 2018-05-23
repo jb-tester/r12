@@ -6,6 +6,5 @@ package a.b.c;
  * Project: r12
  * *******************************
  */
-public class Foo {
-
+public class Foo3 {
 }
