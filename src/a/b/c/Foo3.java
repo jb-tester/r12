@@ -8,4 +8,5 @@ package a.b.c;
  */
 public class Foo3 {
     int i;
+
 }
