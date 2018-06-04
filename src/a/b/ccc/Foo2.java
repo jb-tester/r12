@@ -9,5 +9,5 @@ package a.b.ccc;
 public class Foo2 {
     //
     //
-
+    //
 }
