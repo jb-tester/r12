@@ -8,5 +8,5 @@ package a.b.ccc;
  */
 public class Foo3 {
     int i;
-
+//
 }
