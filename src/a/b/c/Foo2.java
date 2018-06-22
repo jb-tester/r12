@@ -10,6 +10,8 @@ public class Foo2 {
     //
     //ddddd
     //ddddd
+    //ddddd
+    //ddddd
     //
 
 }
