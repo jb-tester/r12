@@ -15,4 +15,5 @@ public class Foo2 {
     // dddddddd
     // eeeee
 
+    // foo2
 }
